@@ -1,0 +1,6 @@
+{
+  "name": "CS Knowledge System",
+  "description": "Internal customer service knowledge and reply assistant for fitness equipment support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
